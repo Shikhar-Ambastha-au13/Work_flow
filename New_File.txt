@@ -2,6 +2,12 @@
 
 2. Now changes have been made for new commit
 
+<<<<<<< HEAD
    Further changes have been made in master
   
    4th change made in master
+=======
+3. 1st change has been made in Dev1
+
+4. 2nd change has been made in Dev2
+>>>>>>> dev1
