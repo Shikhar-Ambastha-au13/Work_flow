@@ -3,3 +3,5 @@
 2. Now changes have been made for new commit
 
 3. 1st change has been made in Dev1
+
+4. 2nd change has been made in Dev2
