@@ -6,8 +6,15 @@
    Further changes have been made in master
   
    4th change made in master
+<<<<<<< HEAD
 =======
 3. 1st change has been made in Dev1
 
 4. 2nd change has been made in Dev2
 >>>>>>> dev1
+=======
+
+   1st change in dev2 branch
+
+   2nd change in dev2 branch
+>>>>>>> dev2
